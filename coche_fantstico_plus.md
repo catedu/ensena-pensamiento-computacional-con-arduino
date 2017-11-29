@@ -7,9 +7,7 @@ Bueno, y si pedimos que tenga alguna interacción con elementos de Scratch:
 
 <iframe width="425" height="350" src="//www.youtube.com/embed/23RnW9e2gD8" frameborder="0"></iframe>
 
-<script type="text/javascript">var feedback44_93text = "Solución";</script><input type="button" name="toggle-feedback-44_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 El programa es el mismo que el anterior, pero con bombillas que cambian de disfraz:
 
@@ -24,6 +22,8 @@ El programa te lo puedes [descargar aquí](cochefantanstico-plus.sb2)
 <iframe width="425" height="350" src="//www.youtube.com/embed/ucQRrE1j32g" frameborder="0"></iframe>
 
 <script type="text/javascript">var feedback17_93text = "Solución";</script><input type="button" name="toggle-feedback-17_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+
+%/accordion%
 
 ### Retroalimentación
 
