@@ -9,47 +9,39 @@ Realizar un semáforo de luces para coches y peatones:
 
 <img src="img/semaforo2.jpg" width="542" height="338" />
 
+![](/assets/Selección_036.png)
 
-<td align="center">Coches</td><td align="center">  </td><td align="center">  Peatones</td><td align="center">  </td><td align="center">Tiempo</td>
-<td align="center">Verde (8)</td><td align="center"></td><td align="center">Rojo (7)</td><td align="center"></td><td align="center">30 seg.</td>
-<td align="center">Ambar (9)</td><td align="center"></td><td align="center">Rojo (7)</td><td align="center"></td><td align="center">5 seg.</td>
-<td align="center">Rojo (10)</td><td align="center"> </td><td align="center">Verde (6)</td><td align="center"> </td><td align="center">20 seg.</td>
-
-
-
-<script type="text/javascript">var feedback14_93text = "Solución";</script><input type="button" name="toggle-feedback-14_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 <img src="img/actividad2-1.jpg" width="416" height="405" />
 
-## Reflexión
+
+%/accordion%
+
 
 ## Propuesta 2
+https://www.youtube.com/watch?v=NUY_cErtP8s
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/NUY_cErtP8s" frameborder="0"></iframe>
+%accordion%Solución%accordion%
 
-<script type="text/javascript">var feedback18_93text = "Solución";</script><input type="button" name="toggle-feedback-18_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+https://www.youtube.com/watch?v=7F9hH7SGfyk
 
-### Retroalimentación
+https://www.youtube.com/watch?v=_4ZOp9TZr6w
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/7F9hH7SGfyk" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=53Git9YiRvA
+%/accordion%
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/_4ZOp9TZr6w" frameborder="0"></iframe>
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/53Git9YiRvA" frameborder="0"></iframe>
 
 ## Propuesta 3
 
 Esta propuesta está en S4A pero ES EXACTAMENTE IGUAL QUE HACERLO EN MBLOC ¿por qué? porque es lenguaje Scratch
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/-AqK_drNX2k" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=-AqK_drNX2k
 
-<script type="text/javascript">var feedback16_93text = "Solución";</script><input type="button" name="toggle-feedback-16_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+%accordion%Solución%accordion%
 
-### Retroalimentación
+https://www.youtube.com/watch?v=HS1cAd1u9LU
+https://www.youtube.com/watch?v=PlAV36CI_No
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/HS1cAd1u9LU" frameborder="0"></iframe>
-
-<iframe width="425" height="350" src="//www.youtube.com/embed/PlAV36CI_No" frameborder="0"></iframe>
-
+%/accordion%

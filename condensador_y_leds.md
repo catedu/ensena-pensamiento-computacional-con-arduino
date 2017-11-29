@@ -13,15 +13,16 @@ La entrada será el condensador por el pin A0
 
 El cable verde suelto será el que manualmente tocará a una resistencia o a otra para que se cargue o descargue:
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/_O1GhMW3Z3U" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=_O1GhMW3Z3U
 
-<script type="text/javascript">var feedback10_93text = "Solución";</script><input type="button" name="toggle-feedback-10_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+%accordion%Solución%accordion%
 
-### Retroalimentación
-
-Pero si... ¡¡¡ ES EL MISMO QUE EL EJERCICIO ANTERIOR[ LDR Y LEDS](ldr_y_leds.html) !!!
+Pero si... ¡¡¡ ES EL MISMO QUE EL EJERCICIO ANTERIOR[ LDR Y LEDS](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/ldr_y_leds.html) !!!
 
 <img src="img/ldr-leds.png" width="399" height="348" />
 
-Si te lo quieres descargar ves a [ LDR Y LEDS](ldr_y_leds.html)
+Si te lo quieres descargar ves a [ LDR Y LEDS](http://aularagon.catedu.es/materialesaularagon2013/arduino/M3/ldr_y_leds.html)
+
+
+%/accordion%
 

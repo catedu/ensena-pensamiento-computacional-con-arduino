@@ -11,11 +11,9 @@ Esta vez vamos a convertir el valor de la oscuridad en luces. Para ello necesita
 
 <img src="img/cto-ldr-luces2.png" width="775" height="520" />
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/78hqYoimEV4" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=78hqYoimEV4
 
-<script type="text/javascript">var feedback9_93text = "Solución";</script><input type="button" name="toggle-feedback-9_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 La solución tiene la complejidad del valor de la entrada A0 que va desde 0 hasta 1023 por lo tanto, hay que convertir estos valores en valores del 2 al 11 correspondiente a los LEDs
 
@@ -25,5 +23,8 @@ Si el LED se menor que el valor A0 ya convertido, encender el LED, en caso contr
 
 <img src="img/ldr-leds.png" width="399" height="348" />
 
-El programa te lo puedes [descargar aquí](ldr-luces.sb2) (sb2 - 72.89 <abbr lang="en" title="KiloBytes">KB</abbr>).
+El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/arduino/M3/ldr-luces.sb2)
+
+
+%/accordion%
 
