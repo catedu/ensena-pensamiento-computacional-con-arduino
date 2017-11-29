@@ -32,11 +32,10 @@ ____
     * [Pulsador basico](pulsador_basico.md)
     * [Pulsador interactivo](pulsador_interactivo.md)
 * [Condensador](condensador1.md)
-* [LDR](ldr.md)
+* [LDR](ldr1.md)
 * [Ultrasonidos](ultrasonidos.md)
 ____
 ### 3. Circuitos más complejos
-* [En harina](index2.md)
 * [LDR y LEDs](ldr_y_leds.md)
 * [Condensador y LEDs](condensador_y_leds.md)
 * [Timbre](timbre.md)
@@ -50,8 +49,9 @@ ____
     * [Coche fantástico plus](coche_fantstico_plus.md)
     * [Semáforo](semaforo.md)
     * [Otras propuestas](otras_propuestas.md)
-* [Ampliación: Sensor parking](ampliacin_sensor_parking.md)
-    * [Con un led](con_un_led.md)
-    * [Con altavoz Arduino](con_altavoz_arduino.md)
-    * [Con altavoz del PC](con_altavoz_del_pc.md)
-    * [Con varios leds](con_varios_leds.md)
+
+### Ampliación: Sensor parking
+* [Con un led](con_un_led.md)
+* [Con altavoz Arduino](con_altavoz_arduino.md)
+* [Con altavoz del PC](con_altavoz_del_pc.md)
+* [Con varios leds](con_varios_leds.md)
