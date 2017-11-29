@@ -2,56 +2,60 @@
 
 * [Introducción](README.md)
 
-____
-### 1. Preparando el terreno
+## 1. Preparando el terreno
+
 * [Arduino](index0.md)
 * [El pensamiento computacional](el_pensamiento_computacional.md)
 * [Kit de préstamo de CATEDU Arduino](kit_de_prstamo_de_catedu_arduino.md)
-    * [Arduino UNO](arduino_uno.md)
-    * [Resistencia](resistencia.md)
-    * [Placa Protoboard](placa_protoboard.md)
-    * [Pulsadores](pulsadores.md)
-        * [Esto esta mal](esto_esta_mal.md)
-        * [Esto esta bien](esto_esta_bien.md)
-    * [LED](led.md)
-    * [Ejemplo de utilización](ejemplo_de_utilizacin.md)
-    * [Condensador](condensador.md)
-    * [LDR](ldr.md)
-    * [Sensor ultrasonidos](sensor_ultrasonidos.md)
+  * [Arduino UNO](arduino_uno.md)
+  * [Resistencia](resistencia.md)
+  * [Placa Protoboard](placa_protoboard.md)
+  * [Pulsadores](pulsadores.md)
+    * [Esto esta mal](esto_esta_mal.md)
+    * [Esto esta bien](esto_esta_bien.md)
+  * [LED](led.md)
+  * [Ejemplo de utilización](ejemplo_de_utilizacin.md)
+  * [Condensador](condensador.md)
+  * [LDR](ldr.md)
+  * [Sensor ultrasonidos](sensor_ultrasonidos.md)
 * [Programas para programar Arduino](programas_para_programar_arduino.md)
 * [Preparando mBlock y el Arduino](preparando_mblock_y_el_arduino.md)
 * [Dos formas de ejecutar tu programa](dos_formas_de_ejecutar_tu_programa.md)
-    * [Programa en mBLOCK](programa_en_mblock.md)
-    * [Programa en Arduino](programa_en_arduino.md)
-____
-### 2. Circuitos sencillos
+  * [Programa en mBLOCK](programa_en_mblock.md)
+  * [Programa en Arduino](programa_en_arduino.md)
+
+## 2. Circuitos sencillos
+
 * [Un LED](un_led.md)
-    * [Intermitente](intermitente.md)
-    * [Luz interactiva](luz_interactiva.md)
+  * [Intermitente](intermitente.md)
+  * [Luz interactiva](luz_interactiva.md)
 * [Pulsador](pulsador.md)
-    * [Pulsador basico](pulsador_basico.md)
-    * [Pulsador interactivo](pulsador_interactivo.md)
+  * [Pulsador basico](pulsador_basico.md)
+  * [Pulsador interactivo](pulsador_interactivo.md)
 * [Condensador](condensador1.md)
 * [LDR](ldr1.md)
 * [Ultrasonidos](ultrasonidos.md)
-____
-### 3. Circuitos más complejos
+
+## 3. Circuitos más complejos
+
 * [LDR y LEDs](ldr_y_leds.md)
 * [Condensador y LEDs](condensador_y_leds.md)
 * [Timbre](timbre.md)
 * [Piano invisible con Ultrasonidos](piano_invisible_con_ultrasonidos.md)
-    * [Con el altavoz PC](con_el_altavoz_pc.md)
-    * [Con el altavoz Arduino](con_el_altavoz_arduino.md)
+  * [Con el altavoz PC](con_el_altavoz_pc.md)
+  * [Con el altavoz Arduino](con_el_altavoz_arduino.md)
 * [Ampliación: Juegos de luces](ampliacin_juegos_de_luces.md)
-    * [Juego luces - 1](juego_luces__1.md)
-    * [Juego de luces -2](juego_de_luces_2.md)
-    * [Coche fantástico](coche_fantstico.md)
-    * [Coche fantástico plus](coche_fantstico_plus.md)
-    * [Semáforo](semaforo.md)
-    * [Otras propuestas](otras_propuestas.md)
+  * [Juego luces - 1](juego_luces__1.md)
+  * [Juego de luces -2](juego_de_luces_2.md)
+  * [Coche fantástico](coche_fantstico.md)
+  * [Coche fantástico plus](coche_fantstico_plus.md)
+  * [Semáforo](semaforo.md)
+  * [Otras propuestas](otras_propuestas.md)
 
-### Ampliación: Sensor parking
+## Ampliación: Sensor parking
+
 * [Con un led](con_un_led.md)
 * [Con altavoz Arduino](con_altavoz_arduino.md)
 * [Con altavoz del PC](con_altavoz_del_pc.md)
 * [Con varios leds](con_varios_leds.md)
+

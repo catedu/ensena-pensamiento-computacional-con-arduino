@@ -61,8 +61,17 @@ Pues la verdad es que no, pero por ejemplo cuando salta al programa del Arduino,
 
 Si, hay muchos:
 
-- **Mindplus <img src="http://blog.ardublock.com/wp-content/uploads/2014/09/2-300x90.png" width="300" height="90" />**
-- **Minblock <img src="http://blog.ardublock.com/wp-content/uploads/2014/09/3-300x88.png" width="300" height="88" />**
-- **Google Blockly <img src="https://lh3.googleusercontent.com/-V3U254SXl9-Q0WD61bg8krSWqhYLC9SyKLsMRqVUHz_GGqEzo5mJCJf5dApo9X2-GVaDoncacSQZtBxocPr3Drd_BgT4w=s688" width="259" height="161" /> **
-- **Ardublock <img src="http://blog.ardublock.com/wp-content/uploads/2014/09/8-300x178.png" width="300" height="178" />**
+- **Mindplus **
+
+<img src="http://blog.ardublock.com/wp-content/uploads/2014/09/2-300x90.png" width="300" height="90" />**
+- **Minblock**
+
+ <img src="http://blog.ardublock.com/wp-content/uploads/2014/09/3-300x88.png" width="300" height="88" />
+- **Google Blockly**
+
+ <img src="https://lh3.googleusercontent.com/-V3U254SXl9-Q0WD61bg8krSWqhYLC9SyKLsMRqVUHz_GGqEzo5mJCJf5dApo9X2-GVaDoncacSQZtBxocPr3Drd_BgT4w=s688" width="259" height="161" /> 
+ 
+- **Ardublock **
+
+<img src="http://blog.ardublock.com/wp-content/uploads/2014/09/8-300x178.png" width="300" height="178" />
 

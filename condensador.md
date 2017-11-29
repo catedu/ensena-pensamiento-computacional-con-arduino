@@ -17,12 +17,11 @@ Si lo hacemos a través de una resistencia, tarda un tiempo a cargarse y tambié
 
 El circuito de carga sería
 
-<img src="img/carga.png" width="188" height="404" />
-<img src="img/ctocarga.png" width="188" height="386" />
+<img src="img/carga.png" width="188" height="404" /><img src="img/ctocarga.png" width="188" height="386" />
 
-fíjate que el lado (-) (la banda blanca) está conectado a GND
+Fíjate que el lado (-) (la banda blanca) está conectado a GND
 
-El circuito de descarga sería
+El **circuito de descarga** sería
 
 <img src="img/descarga.png" width="199" height="367" /><img src="img/ctodescarga.png" width="160" height="356" />
 

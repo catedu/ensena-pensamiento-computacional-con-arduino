@@ -8,5 +8,7 @@ Hay que hacer dos cosas
 
 Lo mejor un tutorial muy breve:
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTHrUti4rLz6_1fFhm2C46WiK9Qx6r39blMWULV8y_Y4Oh6xspMEEFLkKFxSe06J6eiYCOsIpeBqvn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 [Aquí tienes un tutorial en PDF](http://aularagon.catedu.es/materialesaularagon2013/arduino/videos/configurandomBlock-Arduino.pdf)
 
