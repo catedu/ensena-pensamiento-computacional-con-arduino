@@ -3,7 +3,7 @@
 
 Lo correcto es hacerlo a través de resistencias, hay dos configuraciones, pull down o pull up según si la resistencia está abajo o arriba 
 
-<img width="223" height="322" src="img/PULLDOWN.png" /><img width="246" height="337" src="pullup.png" />
+<img width="223" height="322" src="img/PULLDOWN.png" /><img width="246" height="337" src="img/pullup.png" />
 
 la más utilizada y lógica es la primera pull down, pues lo lógico es que cuando se cierra el pulsador, queremos transmitir un 1 lógico
 

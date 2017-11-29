@@ -7,7 +7,7 @@ Placa protoboard o placa de pruebas es un tablero con orificios
 
 Estos se encuentran conectados eléctricamente entre sí de manera interna,el patrón de conexión es de líneas según este esquema:
 
-<img src="esquema.png" width="189" height="139" style="float: left;" /> <img src="http://1.bp.blogspot.com/-Mlib4te8HOU/UdcCzbpWyjI/AAAAAAAAAx0/8q_PjGzWjaU/s640/Interior+ProtoBoard.gif" width="253" height="171" />
+<img src="img/esquema.png" width="189" height="139" style="float: left;" /> <img src="http://1.bp.blogspot.com/-Mlib4te8HOU/UdcCzbpWyjI/AAAAAAAAAx0/8q_PjGzWjaU/s640/Interior+ProtoBoard.gif" width="253" height="171" />
 
 ## ¿Cómo está conectado?
 

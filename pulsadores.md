@@ -13,7 +13,7 @@ Luego tenemos que fijarnos en los pines, si están en línea son los pines que n
 
 Los pines que están en paralelo están conectados, por lo tanto tienen que estar en la misma línea:
 
-<img width="174" height="170" src="img/pulsador-1.png" /><img width="132" height="119" src="pulsador-2.png" />
+<img width="174" height="170" src="img/pulsador-1.png" /><img width="132" height="119" src="img/pulsador-2.png" />
 
 
 

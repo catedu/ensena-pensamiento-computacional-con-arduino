@@ -4,9 +4,9 @@
 
 ____
 ### 1. Preparando el terreno
-* [M1 Introducción](index0.md)
+* [Arduino](index0.md)
 * [El pensamiento computacional](el_pensamiento_computacional.md)
-* [Kit de prÃ©stamo de CATEDU Arduino](kit_de_prstamo_de_catedu_arduino.md)
+* [Kit de préstamo de CATEDU Arduino](kit_de_prstamo_de_catedu_arduino.md)
     * [Arduino UNO](arduino_uno.md)
     * [Resistencia](resistencia.md)
     * [Placa Protoboard](placa_protoboard.md)
@@ -25,19 +25,18 @@ ____
     * [Programa en Arduino](programa_en_arduino.md)
 ____
 ### 2. Circuitos sencillos
-* [M2 circuitos sencillos](index1.md)
 * [Un LED](un_led.md)
     * [Intermitente](intermitente.md)
     * [Luz interactiva](luz_interactiva.md)
 * [Pulsador](pulsador.md)
     * [Pulsador basico](pulsador_basico.md)
     * [Pulsador interactivo](pulsador_interactivo.md)
-* [Condensador](condensador.md)
+* [Condensador](condensador1.md)
 * [LDR](ldr.md)
 * [Ultrasonidos](ultrasonidos.md)
 ____
 ### 3. Circuitos más complejos
-* [M3 circuitos más complejos](index2.md)
+* [En harina](index2.md)
 * [LDR y LEDs](ldr_y_leds.md)
 * [Condensador y LEDs](condensador_y_leds.md)
 * [Timbre](timbre.md)
@@ -49,7 +48,7 @@ ____
     * [Juego de luces -2](juego_de_luces_2.md)
     * [Coche fantástico](coche_fantstico.md)
     * [Coche fantástico plus](coche_fantstico_plus.md)
-    * [Semaforo](semaforo.md)
+    * [Semáforo](semaforo.md)
     * [Otras propuestas](otras_propuestas.md)
 * [Ampliación: Sensor parking](ampliacin_sensor_parking.md)
     * [Con un led](con_un_led.md)

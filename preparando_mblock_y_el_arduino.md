@@ -8,5 +8,5 @@ Hay que hacer dos cosas
 
 Lo mejor un tutorial muy breve:
 
-Si no puedes ver el tutorial siguiente, [aquí lo tienes en PDF](http://aularagon.catedu.es/materialesaularagon2013/arduino/videos/configurandomBlock-Arduino.pdf)
+[Aquí tienes un tutorial en PDF](http://aularagon.catedu.es/materialesaularagon2013/arduino/videos/configurandomBlock-Arduino.pdf)
 

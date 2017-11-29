@@ -15,5 +15,5 @@ En este caso se graba el programa en el Arduino y el Arduino automáticamente lo
 
 # Vale, de acuerdo pero... ¿cómo se hace?
 
-Mira el siguiente tutorial, si no lo ves bien, [aquí lo tienes en formato PDF](http://aularagon.catedu.es/materialesaularagon2013/arduino/videos/Upload-Arduino.pdf)
+Mira el siguiente tutorial. [Aquí lo tienes en formato PDF](http://aularagon.catedu.es/materialesaularagon2013/arduino/videos/Upload-Arduino.pdf)
 
