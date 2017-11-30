@@ -10,7 +10,7 @@ El circuito es el siguiente: el LDR conectado a A0 y a una resistencia (la resis
 
 Y el vídeo
 
-https://www.youtube.com/watch?v=b89sS6mQ4_Q
+{% youtube %}https://www.youtube.com/watch?v=b89sS6mQ4_Q{% endyoutube %}
 
 %accordion%Solución%accordion%
 

@@ -5,7 +5,7 @@
 
 En este caso da la sensación que es una luz la que se desplaza:
 
-https://www.youtube.com/watch?v=rFRS73GW5Y0
+{% youtube %}https://www.youtube.com/watch?v=rFRS73GW5Y0{% endyoutube %}
 
 
 %accordion%Solución%accordion%

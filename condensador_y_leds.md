@@ -13,7 +13,7 @@ La entrada será el condensador por el pin A0
 
 El cable verde suelto será el que manualmente tocará a una resistencia o a otra para que se cargue o descargue:
 
-https://www.youtube.com/watch?v=_O1GhMW3Z3U
+{% youtube %}https://www.youtube.com/watch?v=_O1GhMW3Z3U{% endyoutube %}
 
 %accordion%Solución%accordion%
 

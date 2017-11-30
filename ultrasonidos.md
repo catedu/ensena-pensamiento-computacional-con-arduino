@@ -7,7 +7,7 @@ Pues ya que estamos con la pelota, pues también seguimos: Hacer un programa que
 
 En este caso, como la el sensor de ultrasonidos va desde 2 cm a 300 cm, nuestra propuesta es que el tamaño se cambie multiplicado x50 ese valor, es decir "cambiar tamaño 50xdistancia", de no hacer esto, la pelota sale demasiado pequeña, o el objeto tendría que estar muy lejos para que se vea a un tamaño razonable.
 
-https://www.youtube.com/watch?v=2Pc2Rg0RqEo
+{% youtube %}https://www.youtube.com/watch?v=2Pc2Rg0RqEo{% endyoutube %}
 
 La configuración la explicada en el módulo 1 es decir:
 

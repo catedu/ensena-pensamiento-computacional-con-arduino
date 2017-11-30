@@ -5,7 +5,7 @@
 
 Realizar un programa que al apretar el pulsador, que el panda cambie de disfraz, haga un sonido, diga algo ... además de encender el LED con la misma configuración que [la propuesta anterior](pulsador_basico.html)
 
-https://www.youtube.com/watch?v=7z6QZy22lG8
+{% youtube %}https://www.youtube.com/watch?v=7z6QZy22lG8{% endyoutube %}
 
 <img src="img/interruptor-led.png" width="448" height="502" />
 

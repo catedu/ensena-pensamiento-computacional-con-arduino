@@ -6,7 +6,7 @@
 Proponemos que cuando se pulse el pulsador, se enciendan las luces y toque un tono
 
 
-https://www.youtube.com/watch?v=tDT2SgXXE5A
+{% youtube %}https://www.youtube.com/watch?v=tDT2SgXXE5A{% endyoutube %}
 
 El pulsador con la resistencia pull-down al pin A0 y las luces como en los ejercicios anteriores del 2 al 11, el altavoz en el pin 13:
 

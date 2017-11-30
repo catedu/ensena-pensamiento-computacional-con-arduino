@@ -5,7 +5,7 @@
 
 Pues ahora que sean dos luces las que se muevan, los dos en sentidos opuestos:
 
-https://www.youtube.com/watch?v=GOSBe0IfFQw
+{% youtube %}https://www.youtube.com/watch?v=GOSBe0IfFQw{% endyoutube %}
 
 %accordion%Solución%accordion%
 

@@ -5,7 +5,7 @@
 
 Realizar un programa que la luz parpadee más deprisa cuanto más cerca esté el obstáculo.
 
-https://www.youtube.com/watch?v=D0yfR4AZoZY
+{% youtube %}https://www.youtube.com/watch?v=D0yfR4AZoZY{% endyoutube %}
 
 <img src="img/ultrasonidos-unled.png" width="654" height="478" />
 

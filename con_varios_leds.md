@@ -7,7 +7,7 @@ Realizar un programa que visualice con las luces la distancia que detecta el se
 
 Cuanto más lejos, más luces encendidas:
 
-https://www.youtube.com/watch?v=2J9z2fWz6EY
+{% youtube %}https://www.youtube.com/watch?v=2J9z2fWz6EY{% endyoutube %}
 
 <img src="img/cto-ultrasonidos-variasluces.png" width="606" height="421" />
 

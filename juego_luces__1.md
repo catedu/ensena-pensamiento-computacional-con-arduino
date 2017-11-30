@@ -5,7 +5,7 @@
 
 Se van encendiendo y apagando los 8 leds secuencialmente como en el vídeo:
 
-https://www.youtube.com/watch?v=Ov_jvJmqTX8
+{% youtube %}https://www.youtube.com/watch?v=Ov_jvJmqTX8{% endyoutube %}
 
 %accordion%Solución%accordion%
 

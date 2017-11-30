@@ -5,13 +5,13 @@ Vamos a ver un programa que lea una entrada por pulsador y encienda un LED en el
 
 El inicio del evento es la bandera, se prepara mBlock [como hemos visto ](preparando_mblock_y_el_arduino.html)y al pulsar se ejecuta el programa:
 
-https://www.youtube.com/watch?v=NvN4TGvKwlQ
+{% youtube %}https://www.youtube.com/watch?v=NvN4TGvKwlQ{% endyoutube %}
 
 # Ventajas de programar en mBlock
 
 1. La principal, es que en tu programa **puedes añadir más interacción** con más elementos propios de Scratch, por ejemplo se puede enriquecer el programa anterior de forma que al pulsar, no sólo encienda el LED sino que diga un sonido, cambie de disfraz, ...
 
-https://www.youtube.com/watch?v=7z6QZy22lG8
+{% youtube %}https://www.youtube.com/watch?v=7z6QZy22lG8{% endyoutube %}
 
 # Desventajas
 

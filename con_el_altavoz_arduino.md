@@ -7,7 +7,7 @@ Bueno y ahora ¿por qué no repetimos[ el ejercicio anterior ](https://catedu.gi
 
 <img src="img/Cto-piano-invisible2.png" width="729" height="495" />
 
-https://www.youtube.com/watch?v=jgHBIZCJGu0
+{% youtube %}https://www.youtube.com/watch?v=jgHBIZCJGu0{% endyoutube %}
 
 %accordion%Solución%accordion%
 

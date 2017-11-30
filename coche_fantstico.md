@@ -5,7 +5,7 @@
 
 ¿Conoces las luces del coche fantástico? si la respuesta es afirmativa, tienes la edad perfecta para este curso ;), sino, tendrás que ver este vídeo para [ver el coche fantástico](https://www.youtube.com/watch?v=oNeQi8-PXAU)
 
-https://www.youtube.com/watch?v=B9odWhGeLnE
+{% youtube %}https://www.youtube.com/watch?v=B9odWhGeLnE{% endyoutube %}
 
 %accordion%Solución%accordion%
 

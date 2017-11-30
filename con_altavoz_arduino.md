@@ -5,7 +5,7 @@
 
 Realizar un programa que realice pulsos el altavoz en función de la distancia al objeto. Cuanto más cerca mayor es la frecuencia de los pulsos
 
-https://www.youtube.com/watch?v=6Ww-2lFD27M
+{% youtube %}https://www.youtube.com/watch?v=6Ww-2lFD27M{% endyoutube %}
 
 <img src="img/ultrasonidos-altavoz.png" width="674" height="483" />
 

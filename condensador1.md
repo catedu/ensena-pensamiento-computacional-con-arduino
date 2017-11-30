@@ -20,7 +20,7 @@ Esta misma conexión que lo lea Arduino, por ejemplo por A0
 
 Visualizar la carga en un objeto Scratch que aumente de volumen:
 
-https://www.youtube.com/watch?v=08FM_y8rujc
+{% youtube %}https://www.youtube.com/watch?v=08FM_y8rujc{% endyoutube %}
 
 %accordion%Solución%accordion%
 

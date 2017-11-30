@@ -5,7 +5,7 @@
 
 Bueno, y si pedimos que tenga alguna interacción con elementos de Scratch:
 
-https://www.youtube.com/watch?v=23RnW9e2gD8
+{% youtube %}https://www.youtube.com/watch?v=23RnW9e2gD8{% endyoutube %}
 
 %accordion%Solución%accordion%
 
@@ -22,16 +22,16 @@ El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materiales
 
 ## Otra propuesta de coche fantástico
 
-https://www.youtube.com/watch?v=ucQRrE1j32g
+{% youtube %}https://www.youtube.com/watch?v=ucQRrE1j32g{% endyoutube %}
 
 
 %accordion%Solución%accordion%
 
 
-https://www.youtube.com/watch?v=7CoMjsU0aI4
+{% youtube %}https://www.youtube.com/watch?v=7CoMjsU0aI4{% endyoutube %}
 
-https://www.youtube.com/watch?v=HFzhEpXn6yA
+{% youtube %}https://www.youtube.com/watch?v=HFzhEpXn6yA{% endyoutube %}
 
-https://www.youtube.com/watch?v=7VJ_nCiII6w
+{% youtube %}https://www.youtube.com/watch?v=7VJ_nCiII6w{% endyoutube %}
 
 %/accordion%

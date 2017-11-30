@@ -7,7 +7,7 @@
 
 Las notas musicales están en formato americano (en vez de do-re-mi-..) van desde la nota 48 a la nota 72 por lo tanto hay que convertir la distancia en esas notas musicales
 
-https://www.youtube.com/watch?v=pfbXZOVQubA
+{% youtube %}https://www.youtube.com/watch?v=pfbXZOVQubA{% endyoutube %}
 
 
 %accordion%Solución%accordion%

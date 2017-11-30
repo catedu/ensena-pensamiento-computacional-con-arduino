@@ -5,7 +5,7 @@
 
 Ahora que no sea un altavoz suelto, sino el del ordenador
 
-https://www.youtube.com/watch?v=wcx3_KiDUpM
+{% youtube %}https://www.youtube.com/watch?v=wcx3_KiDUpM{% endyoutube %}
 
 %accordion%Solución%accordion%
 

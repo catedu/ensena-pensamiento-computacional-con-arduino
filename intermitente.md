@@ -3,7 +3,7 @@
 
 ## Propuesta
 
-https://www.youtube.com/watch?v=jxszyuTrRF8
+{% youtube %}https://www.youtube.com/watch?v=jxszyuTrRF8{% endyoutube %}
 
 
 %accordion%Solución%accordion%

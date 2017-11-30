@@ -5,7 +5,7 @@
 
 Realizar un programa que al pulsar la tecla espacio, se encienda el led, un personaje cambie el disfraz, cambie el fondo y suene un "gong"
 
-https://www.youtube.com/watch?v=oiOvVsE_6fc
+{% youtube %}https://www.youtube.com/watch?v=oiOvVsE_6fc{% endyoutube %}
 
 %accordion%Solución%accordion%
 

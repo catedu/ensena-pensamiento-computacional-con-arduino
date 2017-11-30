@@ -11,7 +11,7 @@ Esta vez vamos a convertir el valor de la oscuridad en luces. Para ello necesita
 
 <img src="img/cto-ldr-luces2.png" width="775" height="520" />
 
-https://www.youtube.com/watch?v=78hqYoimEV4
+{% youtube %}https://www.youtube.com/watch?v=78hqYoimEV4{% endyoutube %}
 
 %accordion%Solución%accordion%
 
