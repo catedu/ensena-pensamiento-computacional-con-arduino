@@ -7,19 +7,12 @@ Realizar un programa que visualice con las luces la distancia que detecta el se
 
 Cuanto más lejos, más luces encendidas:
 
-<iframe width="425" height="350" src="//www.youtube.com/embed/2J9z2fWz6EY" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=2J9z2fWz6EY
 
 <img src="img/cto-ultrasonidos-variasluces.png" width="606" height="421" />
 
 
-
-
-
-<script type="text/javascript">var feedback4_93text = "Solución";</script><input type="button" name="toggle-feedback-4_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
-
-### Retroalimentación
-
-
+%accordion%Solución%accordion%
 
 Y el programa podría ser una variable X que vaya desde 1 hasta 8
 
@@ -29,3 +22,5 @@ Como los LEDs están conectados desde el pin 6 al 13 hay que realizar una sencil
 
 <img width="462" height="349" src="img/sensorUS-1.png" />
 
+
+%/accordion%
