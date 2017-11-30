@@ -9,11 +9,13 @@ https://www.youtube.com/watch?v=B9odWhGeLnE
 
 %accordion%Solución%accordion%
 
-%/accordion%
+
 
 Hemos puesto un tiempo T pequeño para que dar una sensación de movimiento
 
 <img src="img/cochefantastico.png" width="303" height="495" />
 
 Descarga del [programa aquí](http://aularagon.catedu.es/materialesaularagon2013/arduino/M3/cochefantanstico.sb2).
+
+%/accordion%
 
