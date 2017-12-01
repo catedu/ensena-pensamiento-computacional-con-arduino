@@ -1,4 +1,6 @@
 
+# Circuitos más complejos
+
 # LDR y LEDs
 
 ## Propuesta
