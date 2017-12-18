@@ -9,7 +9,7 @@ la más utilizada y lógica es la primera pull down, pues lo lógico es que cuan
 
 El valor de la resistencia puede ser de valores de algunos k
 
-Visto en la placa el formato pull down:
+Visto en la placa el formato **pull down**:
 
 <img width="488" height="356" src="img/pulldownprotoboard.png" />
 
