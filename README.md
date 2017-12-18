@@ -1,3 +1,6 @@
 # Introducción
 
-Para aprender a programar esta famosa tarjeta microcontroladora, no hace falta saber C++ y lenguajes sofisticados, en este curso proponemos utilizar el lenguaje didáctico de Scratch.
+Para aprender a programar esta famosa tarjeta microcontroladora, no hace falta saber C++ y lenguajes sofisticados, en este curso proponemos utilizar el lenguaje didáctico de **mBlock** que es igual al **Scratch **con unas instrucciones específicas para robótica _\(bueno, también cambia el gato por un oso panda si nos ponemos meticulosos\)_.
+
+![](/assets/CNZ-_W8UAAE9ppE.jpg)
+
