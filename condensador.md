@@ -3,11 +3,11 @@
 
 ## ¿Qué es?
 
-Es un elemento que consta de dos placas separadas que son capaces de cargarse eléctricamente, su capacidad se mide en Faradios. Se puede interpretar como un globo que nos permite hincharlo de aire, y la capacidad los litros.
+Es un elemento que consta de dos placas separadas que son capaces de cargarse eléctricamente, su capacidad se mide en Faradios. Se puede interpretar como un globo que nos permite hincharlo de aire, y la capacidad los litros. Pero también pueden **explotar** !!! luego lee con atención:
 
-**ATENCIÓN** Los condensadores (a partir de μF son electrólíticos) tienen** POLARIDAD QUE ES IMPORTANTE RESPETARLA,** es decir, tienen un pin marcado con el signo (-) normalmente con franja blanca que tiene que ir al (-) o masa (GND 0V) de lo contario, revientan, con el consecuente peligro, más peligrosos cuanto más capacidad tienen.
+**ATENCIÓN** Los condensadores (_normalmente a partir de 1μF son electrólíticos_) tienen** POLARIDAD QUE ES IMPORTANTE RESPETARLA,** es decir, tienen un pin marcado con el signo (-) normalmente con franja blanca que tiene que ir al (-) o masa (GND 0V) de lo contario, revientan, con el consecuente peligro, más peligrosos cuanto más capacidad tienen.
 
-**ATENCIÓN** Los condensadores tienen una tensión máxima de trabajo, marcado en el propio condensador, en nuestro caso los condensadores marcan 25V, luego se pueden utilizar sin problemas con el Arduino que la tensión máxima es 5V. Como si fuera la máxima presión que aguanta el globo antes de explotar.
+_**ATENCIÓN** Los condensadores tienen una tensión máxima de trabajo, marcado en el propio condensador, en nuestro caso los condensadores marcan 25V, luego se pueden utilizar sin problemas con el Arduino que la tensión máxima es 5V. Como si fuera la máxima presión que aguanta el globo antes de explotar._
 
 
 
