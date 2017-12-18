@@ -32,6 +32,9 @@ Lo hemos hecho a través de una variable auxiliar "carga" para poder visualizar 
 
 El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/arduino/M2/condensador.sb2).
 
+
+%/accordion%
+
 NOTA: Se puede aprovechar esta experiencia para:
 
 - Calcular el tiempo de carga, si coincide con la fórmula T = 5RC
