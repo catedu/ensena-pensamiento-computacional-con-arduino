@@ -11,16 +11,14 @@ Se trata de una placa con un microcontrolador **(un micro ordenador**) y puertos
 
 **Puertos:**
 
-- **14 pines digitales **numerados del 0 al 13 y se pueden ser:
-- Leer - salida (sólo tiene dos estados LOW/HIGH)
-- Escribir en ellos- entrada (valores: mínimo 0V y máximo 5V)
-- **De salida **3-5-6-9-10-11 (sí, has leído bien, estos pines también son los anteriores) tipo [PWM ](https://es.wikipedia.org/wiki/Modulaci%C3%B3n_por_ancho_de_pulsos)(es decir, en formato de pulsos con duración proporcional al valor analógico que se quiera representar)
-- **Pines analógicos de entrada **numerados como A0 hasta A5 (valores: mínimo 0V y máximo 5V) y ellos responden en formato de número entre 0 y 1023
+- **14 pines digitales **numerados del **0 al 13** y se pueden ser:
+    - De **salida **(sólo tiene dos estados LOW/HIGH)
+    - De **entrada **(valores: mínimo 0V y máximo 5V)
+- **6 pines de salida "_analógicos_" **3-5-6-9-10-11 (_sí, has leído bien, se repiten con los anteriores_) tipo [PWM ](https://es.wikipedia.org/wiki/Modulaci%C3%B3n_por_ancho_de_pulsos)(es decir, lo de _salida analógica es una mentirijilla_, es en formato de pulsos con duración proporcional al valor analógico que se quiera representar)
+- **6 pines analógicos de entrada **numerados como **A0 hasta A5** (valores: mínimo 0V y máximo 5V) y ellos responden en formato de número entre 0 y 1023.
 
-Fuente: https://es.wikipedia.org/wiki/Arduino(https://es.wikipedia.org/wiki/Modulaci%C3%B3n_por_ancho_de_pulsos)(es decir, en formato de pulsos con duración proporcional al valor analógico que se quiera representar)
-- **pines analógicos de entrada **numerados como A0 hasta A5  (valores: mínimo 0V y máximo 5V) y ellos responden en formato de número entre 0 y 1023 
+no está nada mal ¿no? y además barato !!!
 
-<br />[<br />](https://es.wikipedia.org/wiki/Arduino)
 
 
 
