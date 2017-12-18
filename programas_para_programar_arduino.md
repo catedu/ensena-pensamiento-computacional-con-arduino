@@ -17,7 +17,7 @@ Un lenguaje de programación apropiado para los niños de primaria es el Scratch
 La pregunta es:
 ## ¿Hay algún programa adaptado para usarlo en Arduino y basado en el lenguaje adaptado Scratch?
 
-La respuesta es SI, y no sólo uno, nosotros elegimos mBlock ¿por qué? lo puedes ver en nuestro curso de Echidna (aún no, en contrucción):
+La respuesta es SI, y no sólo uno, **nosotros elegimos mBlock** ¿por qué? puedes ver el razonamiento y otros programas para programar el Arduino en formato gráfico tipo Scratch en nuestro curso de [Echidna ](http://moodle.catedu.es/)
 
 ## mBlock
 
@@ -31,7 +31,7 @@ Para linux ver [http://www.makeblock.es/foro/topic/25/mblock-con-linux](http://
 
 ## Un detalle
 
-mBlock y S4A NO PROGRAMAN DIRECTAMENTE EN EL ARDUINO si no que traduce el lenguaje SCRACTH al propio del Arduino y éste software es el que programa la placa:
+mBlock (y los otros S4A, Snap4Arduino... también) NO PROGRAMA DIRECTAMENTE EN EL ARDUINO si no que traduce el lenguaje SCRACTH al propio del Arduino y éste software es el que programa la placa:
 
 <img width="1009" height="232" src="img/mbloc-arduino.png" />
 
@@ -39,4 +39,4 @@ Esto se verá mejor cuando programemos en mBlock, veremos como salta el software
 
 ### ¿y esto importa?
 
-Pues la verdad es que no, pero por ejemplo cuando salta al programa del Arduino, se pueden modificar cosas más avanzadas que no llega Scratch
+Pues la verdad es que no, pero es bueno que lo sepas para que entiendas lo que significan las ventanas que se muestran.
