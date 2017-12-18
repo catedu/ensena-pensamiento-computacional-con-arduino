@@ -15,6 +15,7 @@ El programa es sencillo si se conoce Scratch y las instrucciones de control
 
 El programa completo [te lo puedes descargar aquí
 ](http://aularagon.catedu.es/materialesaularagon2013/arduino/M2/oso.sb2)
+
 %/accordion%
 
 
