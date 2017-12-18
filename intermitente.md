@@ -3,7 +3,7 @@
 
 ## Propuesta
 
-{% youtube %}https://www.youtube.com/watch?v=jxszyuTrRF8{% endyoutube %}
+{% youtube %} https://www.youtube.com/watch?v=jxszyuTrRF8{% endyoutube %}
 
 
 
