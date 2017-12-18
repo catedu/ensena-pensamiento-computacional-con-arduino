@@ -58,4 +58,5 @@
 * [Con altavoz Arduino](con_altavoz_arduino.md)
 * [Con altavoz del PC](con_altavoz_del_pc.md)
 * [Con varios leds](con_varios_leds.md)
+* [Creditos](creditos.md)
 

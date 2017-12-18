@@ -24,3 +24,4 @@ Como los LEDs están conectados desde el pin 6 al 13 hay que realizar una sencil
 
 
 %/accordion%
+
