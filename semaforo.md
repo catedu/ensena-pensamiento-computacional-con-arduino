@@ -20,6 +20,7 @@ Realizar un semáforo de luces para coches y peatones:
 
 
 ## Propuesta 2
+Esta propuesta está realizada con código:
 {% youtube %}https://www.youtube.com/watch?v=NUY_cErtP8s{% endyoutube %}
 
 %accordion%Solución%accordion%
