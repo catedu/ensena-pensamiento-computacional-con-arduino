@@ -35,7 +35,7 @@ Realizar un semáforo de luces para coches y peatones:
 
 ## Propuesta 3
 
-Esta propuesta está en S4A pero ES EXACTAMENTE IGUAL QUE HACERLO EN MBLOC ¿por qué? porque es lenguaje Scratch
+Esta propuesta está en S4A pero ES EXACTAMENTE IGUAL QUE HACERLO EN MBLOCK ¿por qué? porque es lenguaje Scratch
 
 {% youtube %}https://www.youtube.com/watch?v=-AqK_drNX2k{% endyoutube %}
 
