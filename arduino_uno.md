@@ -18,27 +18,3 @@ Se trata de una placa con un microcontrolador **(un micro ordenador**) y puertos
 - **6 pines analógicos de entrada **numerados como **A0 hasta A5** (valores: mínimo 0V y máximo 5V) y ellos responden en formato de número entre 0 y 1023.
 
 no está nada mal ¿no? y además barato !!!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Imagen1: Wikipedia [https://es.wikipedia.org/wiki/Arduino](https://es.wikipedia.org/wiki/Arduino)
-
