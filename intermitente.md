@@ -11,6 +11,7 @@ Una propuesta muy sencilla
 
 
 <img src="img/ledintermitente.png" width="268" height="197" />
+
 %/accordion%
 
 
