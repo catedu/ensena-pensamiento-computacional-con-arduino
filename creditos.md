@@ -4,5 +4,7 @@ Los contenidos se distribuye bajo licencia Creative Commons tipo BY-NC-SA![](/as
 
 Cualquier observación o detección de error por favor aquí [soporte.catedu.es](http://soporte.catedu.es/)
 
+![](/assets/HERALDO-jpg.jpg)
+
 
 
