@@ -1,7 +1,7 @@
 
 # Ejemplo de utilización
 
-## Mira el siguiente circuito: 
+## Mira el siguiente circuito NO LO HAGAS SÓLO MÍRALO Y OBSERVA: 
 
 **La alimentación**:
 <ul>
