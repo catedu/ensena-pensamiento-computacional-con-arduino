@@ -1,9 +1,11 @@
 
 # Coche fantástico
+¿Conoces las luces del coche fantástico? si la respuesta es afirmativa, tienes la edad perfecta para este curso ;), sino, tendrás que ver este vídeo para ver el coche fantástico
+
+{% youtube %}https://www.youtube.com/watch?v=oNeQi8-PXAU{% endyoutube %}
 
 ## Propuesta
-
-Vamos a hacer el "_coche fantástico_"
+Al grano, nuestra reto que queremos que hagas es el siguiente:
 
 {% youtube %}https://www.youtube.com/watch?v=B9odWhGeLnE{% endyoutube %}
 
