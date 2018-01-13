@@ -14,7 +14,7 @@ La configuración la explicada en el módulo 1 es decir:
 - Trigger en el pin 4
 - Echo en el pin 3
 
-<img src="http://aularagon.catedu.es/materialesaularagon2013/arduino/M1/conexionUS.png" width="504" height="533" />
+<img width="504" height="533" src="img/conexionUS.png" />
 
 %accordion%Solución%accordion%
 
