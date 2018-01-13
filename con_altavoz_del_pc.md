@@ -7,6 +7,8 @@ Ahora que no sea un altavoz suelto, sino el del ordenador
 
 {% youtube %}https://www.youtube.com/watch?v=wcx3_KiDUpM{% endyoutube %}
 
+Si te fijas _va más lento que [el caso anterior_](/con_el_altavoz_arduino.md) por su dependencia con el ordenador.
+
 %accordion%Solución%accordion%
 
 <img src="img/parking-tambor.png" width="500" height="215" />
