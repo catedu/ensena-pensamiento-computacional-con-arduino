@@ -19,12 +19,5 @@ Hemos puesto un tiempo T pequeño para que dar una sensación de movimiento
 
 Descarga del [programa aquí](http://aularagon.catedu.es/materialesaularagon2013/arduino/M3/cochefantanstico.sb2).
 
-¿Conoces las luces del coche fantástico? si la respuesta es afirmativa, tienes la **edad perfecta **para este curso ;)
-
-sino, tendrás que ver este vídeo:
-{% youtube %}https://www.youtube.com/watch?v=oNeQi8-PXAU{% endyoutube %}
-
-
-
 %/accordion%
 
