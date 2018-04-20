@@ -59,5 +59,6 @@
 * [4.3 Con altavoz del PC](con_altavoz_del_pc.md)
 * [4.4 Con varios leds](con_varios_leds.md)
 * [5 Muro](muro.md)
-* [6 Creditos](creditos.md)
+* [6 Grupo Robotica Educativa Aragón](grupo-robotica-educativa-aragon.md)
+* [7 Creditos](creditos.md)
 
