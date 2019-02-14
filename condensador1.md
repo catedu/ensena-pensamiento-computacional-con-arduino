@@ -4,9 +4,9 @@
 
 Realizar un programa que cargue y descargue el condensador y que lo visualice en un objeto.
 
-La propuesta es con un condensador de 10μF y dos resistencias de centenares de k, según[ lo visto en el módulo M1 ](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/condensador.html)esto nos dará un tiempo de carga y descarga de varios segundos
+La propuesta es con un condensador de 10μF y dos resistencias de centenares de k, según [lo visto en el módulo M1](/condensador1.md) esto nos dará un tiempo de carga y descarga de varios segundos
 
-OJO CONECTAR EL PIN (-) DEL CONDENSADOR A GND
+**OJO CONECTAR EL PIN (-) DEL CONDENSADOR A GND**
 
 Las resistencias colocarlos de tal manera que uno sea para la carga y otro para la descarga
 
@@ -31,6 +31,9 @@ Lo hemos hecho a través de una variable auxiliar "carga" para poder visualizar 
 <img src="img/condensador.png" width="336" height="149" />
 
 El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/arduino/M2/condensador.sb2).
+
+
+%/accordion%
 
 NOTA: Se puede aprovechar esta experiencia para:
 

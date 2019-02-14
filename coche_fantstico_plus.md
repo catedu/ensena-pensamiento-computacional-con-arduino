@@ -21,6 +21,7 @@ El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materiales
 %/accordion%
 
 ## Otra propuesta de coche fantástico
+Esto lo mostramos como ejemplo de hacer el coche fantástico con un potenciómetro, OJO la solución está realizada en código, no en mBlock, pero los vídeos explican muy bien como hay que conectar todo:
 
 {% youtube %}https://www.youtube.com/watch?v=ucQRrE1j32g{% endyoutube %}
 

@@ -7,8 +7,5 @@ Hay que hacer dos cosas
 - Nuestro **ARDUINO** no pueden entender mBlock por lo que hay que grabarle un software dentro (un software que se graba en una placa hardware se llama **FIRMWARE**, no se borra cuando se apaga) y este firmware entiende lo que le manda mBlock, es decir, si conectamos otro Arduino y no le hemos grabado el firmware, no entenderá a mBlock.
 
 Lo mejor un tutorial muy breve:
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTHrUti4rLz6_1fFhm2C46WiK9Qx6r39blMWULV8y_Y4Oh6xspMEEFLkKFxSe06J6eiYCOsIpeBqvn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-[Aquí tienes un tutorial en PDF](http://aularagon.catedu.es/materialesaularagon2013/arduino/videos/configurandomBlock-Arduino.pdf)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

@@ -19,7 +19,7 @@ Podemos conectar el pin trigger y echo donde queramos de las entradas y salidas 
 
 <img width="504" height="533" src="img/conexionUS.png" />
 
-No tenemos que utilizar la fórmula para calcular la distancia, mBlock ya lo hace y la instrucción es muy sencilla, sólo hay que proporcionarle qué pin hemos conectado el trigger y qué pin hemos conectado el echo y él nos devuelve la distancia en centímetros:
+**No tenemos que utilizar la fórmula para calcular la distancia, mBlock ya lo hace** y la instrucción es muy sencilla, sólo hay que proporcionarle qué pin hemos conectado el trigger y qué pin hemos conectado el echo y él nos devuelve la distancia en centímetros:
 
 <img width="322" height="43" src="img/instruccionUS.png" />
 

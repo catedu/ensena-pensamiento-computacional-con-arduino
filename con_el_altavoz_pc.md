@@ -5,7 +5,7 @@
 
 <img src="http://i.ytimg.com/vi/9DlwQJX3qag/hqdefault.jpg" width="213" height="160" style="float: left; margin: 5px;" />No vamos a hacer un arpa láser estilo Jean Michel Jarre, pero con ultrasonidos, se puede hacer algo parecido. ¿Te atreves? El programa tiene que convertir la distancia en notas musicales.
 
-Las notas musicales están en formato americano (en vez de do-re-mi-..) van desde la nota 48 a la nota 72 por lo tanto hay que convertir la distancia en esas notas musicales
+Las notas musicales están en formato americano (en vez de do-re-mi-..) van desde la nota 48 a la nota 72 por lo tanto hay que convertir la distancia en esas notas musicales _(pon la voz a tope, que se oye bajo)_
 
 {% youtube %}https://www.youtube.com/watch?v=pfbXZOVQubA{% endyoutube %}
 

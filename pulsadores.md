@@ -19,5 +19,5 @@ Los pines que están en paralelo están conectados, por lo tanto tienen que esta
 
 
 
-Pero ¿Cómo se conecta? un poco de teoría:
+Pero ¿Cómo se conecta? un poco de teoría en la página siguiente.
 
