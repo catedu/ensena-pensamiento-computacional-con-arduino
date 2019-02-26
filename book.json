@@ -1,1 +1,1 @@
-{"pluginsConfig": {"edit-link": {"base": "Edita esta p\u00e1gina", "label": "Edita esta p\u00e1gina"}}, "plugins": ["youtube", "accordion", "edit-link", "githubcontributors"]}
+{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/ensena-pensamiento-computacional-con-arduino/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "ensena-pensamiento-computacional-con-arduino"}}}
