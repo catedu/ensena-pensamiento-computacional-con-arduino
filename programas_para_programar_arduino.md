@@ -4,7 +4,7 @@
 ## Arduino IDE
 El Arduino tiene su software propio, con su lenguaje de programación y por supuesto es software libre:
 
-[<img width="102" height="104" src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoAPP-01.svg" />](https://www.arduino.cc/en/Main/Software)
+[![](img/o4888.png)](https://www.arduino.cc/en/Main/Software)
 
 [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)[](https://www.arduino.cc/en/Main/Software)
 
