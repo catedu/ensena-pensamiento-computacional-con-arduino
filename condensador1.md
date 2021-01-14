@@ -38,7 +38,7 @@ El programa te lo puedes [descargar aquí](http://aularagon.catedu.es/materiales
 NOTA: Se puede aprovechar esta experiencia para:
 
 - Calcular el tiempo de carga, si coincide con la fórmula T = 5RC
-- Visualizar que la pelota se carga o aumenta de volumen muy rápidamente al principio y luego lentamente, tal y como indica[ la teoría vista en el módulo 1](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/condensador.html)
+- Visualizar que la pelota se carga o aumenta de volumen muy rápidamente al principio y luego lentamente, tal y como indica[ la teoría vista en el módulo 1](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/condensador.html)
 - Igualmente en la descarga
 
 

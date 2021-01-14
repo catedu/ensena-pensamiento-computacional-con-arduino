@@ -3,7 +3,7 @@
 
 ## Propuesta
 
-Bueno y ahora ¿por qué no repetimos[ el ejercicio anterior ](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/con_el_altavoz_pc.html)pero nos independizamos del ordenador? conectamos un altavoz en el pin 13 por ejemplo y que suene la música:
+Bueno y ahora ¿por qué no repetimos[ el ejercicio anterior ](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/con_el_altavoz_pc.html)pero nos independizamos del ordenador? conectamos un altavoz en el pin 13 por ejemplo y que suene la música:
 
 <img src="img/Cto-piano-invisible2.png" width="729" height="495" />
 No suena de maravilla, porque no es el altavoz del PC, ni tampoco tiene potencia, pero algo es algo...

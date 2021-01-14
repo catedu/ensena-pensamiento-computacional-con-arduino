@@ -26,8 +26,8 @@ _**Nota:** No es cierto del todo la frase "las salidas són sólo digitales"_
 
 ![](/assets/salidasPWM.png)
 
-_Hay pines con el símbolo ~ que indican "Modulación por ancho de pulso PWM" es decir, que pueden emitir una salida cuadrada con un ancho variable de tal manera que su valor medio puede ser un valor entre 0V y 5V, o sea, una salida analógica "disfrazada", esto no lo veremos en este curso pero puedes saber [más aquí](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/un_caso_especial_seales_pwm.html)._
+_Hay pines con el símbolo ~ que indican "Modulación por ancho de pulso PWM" es decir, que pueden emitir una salida cuadrada con un ancho variable de tal manera que su valor medio puede ser un valor entre 0V y 5V, o sea, una salida analógica "disfrazada", esto no lo veremos en este curso pero puedes saber [más aquí](https://catedu.github.io/programa-arduino-mediante-codigo/un_caso_especial_seales_pwm.html)._
 
 ## Más información por favor !!
-No nos queremos extender más pero si necesitas la información anterior con más detalle y más posibilidades que no hemos mencionado, visita  los contenidos de nuestro curso [Programa Arduino mediante código](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/index0.html) 
+No nos queremos extender más pero si necesitas la información anterior con más detalle y más posibilidades que no hemos mencionado, visita  los contenidos de nuestro curso [Programa Arduino mediante código](https://catedu.github.io/programa-arduino-mediante-codigo/index0.html) 
 

@@ -14,4 +14,4 @@ La forma de conectarlo en la placa Protoboard es (en este ejemplo lo conecta al 
 
 ![](/assets/KeyboardMessage_2_bb.png)
 
-Si quieres saber su contraria (Pull-up) [visita esta página.](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/resistencias_pullup_y_pulldown.html)
+Si quieres saber su contraria (Pull-up) [visita esta página.](https://catedu.github.io/programa-arduino-mediante-codigo/resistencias_pullup_y_pulldown.html)

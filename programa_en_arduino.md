@@ -14,5 +14,5 @@ En este caso se graba el programa en el Arduino y el Arduino automáticamente lo
 
 # Vale, de acuerdo pero... ¿cómo se hace?
 
-¿Pero qué preguntas haces? ¿No te acuerdas? ver[ Preparando mBlock  y el Arduino.](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/preparando_mblock_y_el_arduino.html)
+¿Pero qué preguntas haces? ¿No te acuerdas? ver[ Preparando mBlock  y el Arduino.](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/preparando_mblock_y_el_arduino.html)
 

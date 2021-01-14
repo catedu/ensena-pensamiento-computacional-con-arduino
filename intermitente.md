@@ -16,7 +16,7 @@ Una propuesta muy sencilla
 
 
 
-Aquí no hay ninguna interacción con el ordenador, este programa es candidato para ejecutarlo [desde el Arduino](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/programa_en_arduino.html) como [desde el ordenador](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/programa_en_mblock.html).
+Aquí no hay ninguna interacción con el ordenador, este programa es candidato para ejecutarlo [desde el Arduino](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/programa_en_arduino.html) como [desde el ordenador](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/programa_en_mblock.html).
 Vamos a añadirle algo de interacción con el ordenador en la siguiente propuesta.
 
 

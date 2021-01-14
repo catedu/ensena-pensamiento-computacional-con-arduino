@@ -17,7 +17,7 @@ El cable verde suelto será el que manualmente tocará a una resistencia o a otr
 
 %accordion%Solución%accordion%
 
-Pero si... ¡¡¡ ES EL MISMO QUE EL EJERCICIO ANTERIOR[ LDR Y LEDS](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/ldr_y_leds.html) !!!
+Pero si... ¡¡¡ ES EL MISMO QUE EL EJERCICIO ANTERIOR[ LDR Y LEDS](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/ldr_y_leds.html) !!!
 
 <img src="img/ldr-leds.png" width="399" height="348" />
 
