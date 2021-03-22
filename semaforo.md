@@ -19,9 +19,7 @@ Realizar un semáforo de luces para coches y peatones:
 %/accordion%
 
 
-## Propuesta 2
-Esta propuesta está realizada con código:
-{% youtube %}https://www.youtube.com/watch?v=NUY_cErtP8s{% endyoutube %}
+## Propuesta 2 con código
 
 %accordion%Solución%accordion%
 
@@ -30,19 +28,4 @@ Esta propuesta está realizada con código:
 {% youtube %}https://www.youtube.com/watch?v=_4ZOp9TZr6w{% endyoutube %}
 
 {% youtube %}https://www.youtube.com/watch?v=53Git9YiRvA{% endyoutube %}
-%/accordion%
-
-
-
-## Propuesta 3
-
-Esta propuesta está en S4A pero ES EXACTAMENTE IGUAL QUE HACERLO EN MBLOCK ¿por qué? porque es lenguaje Scratch
-
-{% youtube %}https://www.youtube.com/watch?v=-AqK_drNX2k{% endyoutube %}
-
-%accordion%Solución%accordion%
-
-{% youtube %}https://www.youtube.com/watch?v=HS1cAd1u9LU{% endyoutube %}
-{% youtube %}https://www.youtube.com/watch?v=PlAV36CI_No{% endyoutube %}
-
 %/accordion%
