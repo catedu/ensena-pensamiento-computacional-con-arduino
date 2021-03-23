@@ -11,6 +11,18 @@ Para las siguientes propuestas, el montaje es colocar un diodo LED, en este caso
 
 ![](/assets/unled.png)
 
-O si queremos usar la placa PROTOBOARD y poner una resistencia para que lo limite, entonces también es fácil
+>No es una buena práctica conectar un diodo diréctamente sin pasar por una resistencia, pues en teoría es un cortocircuito, PERO si se hace no pasa nada pues Arduino tiene una limitación interna de 20mA
+
+Luego lo recomendable es hacerlo pasar por una resistencia, usanto la placa PROTOBOARD
 
 ![](http://aularagon.catedu.es/materialesaularagon2013/arduino/M1/conexionLED.png)
+
+Para el cálculo de la resistencia, debemos de tener en cuenta que la máxima corriente es 20mA, que la tensión de salida es 5V y que el diodo tiene una tensión Vd de funcionamiento, que depende de su color:
+
+Rminima = (5V-Vd)/20mA
+
+| Color | Vd | Resistencia mínima Ohm |
+|-------|----|------------------------|
+| Rojo | 1.8V | 160 |
+| Amarillo | 3.2V | 140 |
+| Verde | 3.2V | 90 |
