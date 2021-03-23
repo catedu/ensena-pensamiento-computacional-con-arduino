@@ -15,7 +15,7 @@ Para las siguientes propuestas, el montaje es colocar un diodo LED, en este caso
 
 Luego lo recomendable es hacerlo pasar por una resistencia, usanto la placa PROTOBOARD
 
-![](http://aularagon.catedu.es/materialesaularagon2013/arduino/M1/conexionLED.png)
+![](/assets/conexionLED.png)
 
 Para el cálculo de la resistencia, debemos de tener en cuenta que la máxima corriente es 20mA, que la tensión de salida es 5V y que el diodo tiene una tensión Vd de funcionamiento, que depende de su color:
 
